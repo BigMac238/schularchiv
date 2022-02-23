@@ -15,7 +15,19 @@ width: 50%;
     margin-right: auto;
     width: 50%;
   }
-  
-#wrapper {
-  background-image:url(../Geschichte_Ha/geschichte_ha.jpg);
+
+
+
+.footer {
+   position: fixed;
+   left: 25%;
+   bottom: 0;
+   width: 50%;
+   background-color: blue;
+   color: white;
+   text-align: center;
 }
+
+<div class="footer">
+  <p>made by Silas Ostertun</p>
+</div>
