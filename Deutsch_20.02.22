@@ -1,7 +1,8 @@
 <!DOCTYPE hmtl>
 <html class="center">
    <link rel="stylesheet" type="text/css" href="main.css">
-  <body>
+ <HEAD><TITLE>Archiv</TITLE></HEAD>
+ <body>
     <span style="font-size:50px; color:blue;">Archiv</span>
     <h2 style="color:green;">EJC Archiv Deutsch 20.02.22</h2>
     <br>
@@ -17,6 +18,4 @@
 
 <form action="/action_page.php">
 
-        <HTML>
-<HEAD><TITLE>Archiv</TITLE>
-<HTML>
+</HTML>
