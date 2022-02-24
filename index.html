@@ -16,7 +16,10 @@
    text-align: center;
 }
    
-body {
+</style>
+
+<style>
+   body {
   background-color: #3f3f3f;
   color: white;
 }
@@ -26,10 +29,7 @@ body {
   color: black;
 }
    
-
-</style>
-
-
+      </style>
       
 
 </HEAD>
@@ -50,13 +50,14 @@ body {
      <br>
      <h2 style="font-size:30px; font-family: sans-serif">EJC Backpack</h2>
 
-<button onclick="myFunction()">Toggle dark/white mode</button>
 
+
+<button onclick="myFunction()">Toggle dark mode</button>
 
 <script>
 function myFunction() {
    var element = document.body;
-   element.classList.toggle("white-mode");
+   element.classList.toggle("dark-mode");
 }
 </script>
          
