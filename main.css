@@ -1,5 +1,4 @@
 body {
-background-color: #292a2e;
 border-radius: 10px;
 min-height: 1000px;
 display: block;
@@ -15,21 +14,13 @@ width: 50%;
     margin-right: auto;
     width: 50%;
   }
-
-  .selektor1 {
-    font-family:Arial
-  }
-
-  .selektor2 {
-    font-family:sans-serif
-  }
   
-  
-  background-color: #292a2e;
+body {
+  background-color: #3f3f3f;
   color: white;
 }
 
-.white-mode {
+.dark-mode {
   background-color: white;
   color: black;
 }
