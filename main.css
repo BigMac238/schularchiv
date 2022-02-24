@@ -23,3 +23,14 @@ width: 50%;
   .selektor2 {
     font-family:sans-serif
   }
+  
+  
+  background-color: #292a2e;
+  color: white;
+  font-size: 25px;
+}
+
+.white-mode {
+  background-color: white;
+  color: black;
+}
