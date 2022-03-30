@@ -7,6 +7,15 @@ margin-right: auto;
 width: 50%;
 background-color: black;
 
+
+background-image: url('ferien.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: 100%;
+background-position: center;
+
+
+
 /* background-color: #3f3f3f; */
 
 .textcenter{
